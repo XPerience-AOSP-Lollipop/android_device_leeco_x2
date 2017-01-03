@@ -9,6 +9,7 @@
     "target_path": "packages/resources/devicesettings",
     "branch":      "cm-14.1"
   },
+  {
     "remote": "Unicorn",
     "repository": "proprietary_vendor_leeco",
     "target_path": "vendor/leeco",
