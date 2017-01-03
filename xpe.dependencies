@@ -13,4 +13,5 @@
     "repository": "proprietary_vendor_leeco",
     "target_path": "vendor/leeco",
     "branch":      "cm-14.1"
+  }
 ]
